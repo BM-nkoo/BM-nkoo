@@ -1,8 +1,8 @@
 <p align="center">
+  <img src="https://img.shields.io/github/followers/BM-nkoo?label=FOLLOWERS&style=for-the-badge&labelColor=315783&color=d65b83">
 
-<img src="https://img.shields.io/github/followers/BM-nkoo?style=flat-square&label=FOLLOWERS">
-
-<img src="https://komarev.com/ghpvc/?username=BM-nkoo&label=View&color=blue&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=BM-nkoo&label=View&color=315783&style=for-the-badge">
+</p>
 
 </p>
 
